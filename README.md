@@ -6,7 +6,7 @@ classical-quantum nodes in the computing network.
 ## What it does
  _“Classical Quantum Data Compression”_ as a way to leverage quantum technologies for classical data processing . 
 The procedure involves:
--Encode classical information into quantum bits using methods like **Amplitude encoding**
+-Encode classical information into quantum bits using methods like **Angle encoding**
 -Usage of **Quantum data compression algorithms** like to condense Quantum data which can help in 
 -Reducing storage needs  
 -Less need for larger quantum channels
