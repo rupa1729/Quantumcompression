@@ -1,6 +1,6 @@
 # Quantumcompression
 ## Inspiration
-In our day-to-day problems , we see huge amount of data growth ,but** compression of data with same quality** is difficult .The desire to have a scalable and more accessible quantum computing infrastructure motivated us. For that to happen given quantum hardware constraints and to catch up with the classical big data revolution, we chose data compression as a gateway to create hybrid 
+In our day-to-day problems , we see huge amount of data growth ,but **compression of data with same quality** is difficult .The desire to have a scalable and more accessible quantum computing infrastructure motivated us. For that to happen given quantum hardware constraints and to catch up with the classical big data revolution, we chose data compression as a gateway to create hybrid 
 classical-quantum nodes in the computing network.
 
 ## What it does
